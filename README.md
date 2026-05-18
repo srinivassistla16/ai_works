@@ -1,2 +1,2 @@
 # ai_works
-AI Experimanets
+Generative AI works

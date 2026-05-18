@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "character_input",
+        "mythology_input",
+        "no_of_lines_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    Describe {character_input} character in Indian Mythology {mythology_input} in {no_of_lines_input}  sentences\n    ",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
