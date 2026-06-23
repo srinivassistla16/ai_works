@@ -38,3 +38,30 @@ grandalf
 
 # PDF Support
 langchain_community
+pypdf
+
+#for semantic search
+scikit-learn
+
+#rag Learning
+youtube-transcript-api
+faiss-cpu
+#tiktoken is needed for token counting and encoding, especially when working with OpenAI models
+tiktoken
+#SentencePiece is a tokenizer and detokenizer library that can be used for various NLP tasks, including tokenization for language models. It is often used in conjunction with Hugging Face Transformers and other NLP libraries to preprocess text data.
+SentencePiece 
+
+#similarity search
+sentence-transformers
+
+#retiever
+wikipedia
+
+#agent-project
+requests
+duckduckgo_search
+ddgs
+
+#embeddings
+chromadb
+langchain-chroma
